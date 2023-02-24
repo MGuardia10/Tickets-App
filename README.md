@@ -1,5 +1,8 @@
-# Socket Server Basico
+# Tickets App
 
-Un servidor de Websockets usando Node, Express y Socket.io
+Aplicación con tres interfaces:
+* Una para generar los tickets
+* Otra para consultar el turno de los tickets
+* La última para los administradores para la gestión de los tickets
 
-Temas cubiertos en mi curso de Node de cero a experto
+Realizada con Socket.io para la actualización en tiempo real de los datos
